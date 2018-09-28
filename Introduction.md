@@ -16,9 +16,22 @@
  5. CoZ council will vote on the week's contributions and distribute awards to the community as thanks.  This may take 1-2 weeks from when your gist was posted. Awards are made in neo and are a fraction of a weekly allocation ranging from $10,000 - $30,000.
  
  # Roles
+ There are a number of roles withing the Foundation.  They are defined below:
  
  ## Advisory Board
+ The advisory board is comprised of ex-council members who have beneficially left their position (due to max tenure for example).  This position is responsible to moderating the foundation and guaranteeing that the foundation charter is upheld.
+ 
  ## Council
+ The Council represents the leadership team of City of Zion.  It is comprised of a diverse team of individuals who are responsible for guiding the foundation and leading its projects.  The council is also responsible for administrative tasks like awards voting and special events.
+ 
  ## Maintainer
+ Maintainers are comprised of the project leadership team.  They are responsible for operations of individual domains within city of zion.
+ 
  ## Contributor
+ Contributors are the largest group within City of Zion.  They are the individuals who contribute to project for weekly award allocations.
+ 
  ## Support
+ Various support roles are also present within City of Zion.  These roles provide value through areas like platform security and public outreach.
+
+# Special Events!
+Periodically, the council will elect to run special events which distribute awards beyond the weekly allocation.  These may take the form of spot bonuses to incentivize work on a specific project or community competitions covering a range of topics from dApps to tutorials.
