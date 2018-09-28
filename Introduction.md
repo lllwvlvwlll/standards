@@ -2,6 +2,8 @@
  City of Zion is a global open source blockchain development Foundation that supports the growth and development of the Smart Economy
  with particular emphasis on the Neo Platform.  The City of Zion has an endowment from Neo Global Development (NGD) to grow the Ecosystem.
  This endowment in distributed to the development community using a number of mechanisms with the most common being the weekly awards.  Awards are distributed to open source contributions to the Neo ecosystem on a range of projects.
+ 
+ *<b>Note:</b> The weekly award allocation can range from $10,000-$35,000 with occasional special events that yield additional opportunities!*
   
  # Contributing
  
@@ -13,7 +15,7 @@
  <b>You must create a github gist for the week and post it in the `_contribution_gists` channel upon seeing this alert.</b>
  
  4. As verification that the gist was been received, an emoji will be added to the gist by someone from CoZ council. This process may take a few days so be patient.
- 5. CoZ council will vote on the week's contributions and distribute awards to the community as thanks.  This may take 1-2 weeks from when your gist was posted. Awards are made in neo and are a fraction of a weekly allocation ranging from $10,000 - $30,000.
+ 5. CoZ council will vote on the week's contributions and distribute awards to the community as thanks.  This may take 1-2 weeks from when your gist was posted.
  
  # Roles
  There are a number of roles withing the Foundation.  They are defined below:
